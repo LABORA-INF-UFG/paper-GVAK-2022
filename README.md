@@ -34,9 +34,13 @@ We compare our DRL agent with two optimal solutions:
 
 ## Comparing Solutions
 
+- VNC choices
+
 <p float="left">
   <img src="https://github.com/LABORA-INF-UFG/paper-GVAK-2022/blob/main/Figures/Fig1.png" width="800" \>
 </p>
+
+- Centralization level and Learning curve
 
 <p float="left">
   <img src="https://github.com/LABORA-INF-UFG/paper-GVAK-2022/blob/main/Figures/Fig2.png" width="400" />
