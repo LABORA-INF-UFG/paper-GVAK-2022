@@ -14,7 +14,7 @@ To evaluate our solution and compare our results with other works, we used a set
 
 The CRs are free to allocate different amounts of Virtualized Network Functions (VNF).  In other words, they are free to act as a Core Unite (CU) or/and a Distributed Unit (DU). Also, the numbers of CUs or DUs are dynamic, i. e., there is no fixed number of CUs or DUs in our model.
 
-![topo_fig](https://github.com/LABORA-INF-UFG/paper-GLCK-2021/blob/main/figure_topology.png)
+![topo_fig]([https://github.com/LABORA-INF-UFG/paper-GLCK-2021/blob/main/figure_topology.png](https://github.com/LABORA-INF-UFG/paper-GVAK-2022/blob/main/Figures/Topologies.png))
 
 ## Paths
 
