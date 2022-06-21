@@ -7,6 +7,8 @@ version 1.15.4, using Stable Baselines 2.
 - [Topologies](#topologies)
 - [Paths](#paths)
 - [Final Results](#final-results)
+- [Comparing Solutions](#comparing-solutions)
+- [Citation](#citation)
 
 ## Topologies
 
@@ -29,6 +31,8 @@ To see our final results, i. e., the comparison of the centralization level betw
 We compare our DRL agent with two optimal solutions:
   - [*PlaceRAN*](https://github.com/LABORA-INF-UFG/paper-FGLKLRC-2021) - optimization model
   - [*Constrained Deep Reinforcement Based Functional Split Optimization in Virtualized RANs*](https://arxiv.org/abs/2106.00011) - optimization model
+
+## Comparing Solutions
 
 <p float="left">
   <img src="https://github.com/LABORA-INF-UFG/paper-GVAK-2022/blob/main/Figures/Fig1.png" width="800" \>
