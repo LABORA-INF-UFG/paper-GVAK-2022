@@ -31,6 +31,10 @@ We compare our DRL agent with two optimal solutions:
   - [*Constrained Deep Reinforcement Based Functional Split Optimization in Virtualized RANs*](https://arxiv.org/abs/2106.00011) - optimization model
 
 <p float="left">
+  <img src="https://github.com/LABORA-INF-UFG/paper-GVAK-2022/blob/main/Figures/Fig1.png" width="600" \>
+</p>
+
+<p float="left">
   <img src="https://github.com/LABORA-INF-UFG/paper-GVAK-2022/blob/main/Figures/Fig2.png" width="400" />
   <img src="https://github.com/LABORA-INF-UFG/paper-GVAK-2022/blob/main/Figures/Fig3.png" width="400" />
 </p>
