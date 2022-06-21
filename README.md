@@ -25,8 +25,8 @@ To calculate the routing paths to be used by our solution, we used the k-shortes
 To see our final results, i. e., the comparison of the centralization level between the solutions, the VNCs used and the learning curve of the DRL agent in the training, we provide a set of charts that illustrate such results for each topology used. The scripts and solutions used to plot those charts are available in this repository.
 
 <p float="left">
-  <img src="https://github.com/LABORA-INF-UFG/paper-GVAK-2022/blob/main/Figures/Fig2.png" width="200" />
-  <img src="https://github.com/LABORA-INF-UFG/paper-GVAK-2022/blob/main/Figures/Fig3.png" width="200" />
+  <img src="https://github.com/LABORA-INF-UFG/paper-GVAK-2022/blob/main/Figures/Fig2.png" width="500" />
+  <img src="https://github.com/LABORA-INF-UFG/paper-GVAK-2022/blob/main/Figures/Fig3.png" width="500" />
 </p>
 
 ## Citation
