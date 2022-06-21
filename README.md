@@ -27,7 +27,7 @@ To calculate the routing paths to be used by our solution, we used the k-shortes
 To see our final results, i. e., the comparison of the centralization level between the solutions, the VNCs used and the learning curve of the DRL agent in the training, we provide a set of charts that illustrate such results for each topology used. The scripts and solutions used to plot those charts are available in this repository.
 
 We compare our DRL agent with two optimal solutions:
-  - *PlaceRAN* - optimization model, available at: [link](git@github.com:LABORA-INF-UFG/paper-FGLKLRC-2021.git)
+  - *PlaceRAN* - optimization model, available at: [link](https://github.com/LABORA-INF-UFG/paper-FGLKLRC-2021)
   - *Constrained Deep Reinforcement Based Functional Split Optimization in Virtualized RANs* - optimization model, available at: [link](https://arxiv.org/abs/2106.00011)
 
 <p float="left">
